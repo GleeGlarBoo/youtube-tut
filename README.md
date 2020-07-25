@@ -1,3 +1,3 @@
-#MYapp (well this is supposed to be bold and huge)
+# MYapp
 
 This is my app
